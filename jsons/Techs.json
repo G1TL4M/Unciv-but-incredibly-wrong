@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Machinery",
+				"row": 8,
+				"prerequisites": ["Guilds","Engineering"],
+				"uniques": ["Improves movement speed on roads"],
+				"quote": "'I met God. She's black.' - Thomas Jefferson"
+  }
+]
