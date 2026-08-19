@@ -687,17 +687,35 @@
 			}
 		]
 	},
+
 	{
 		"columnNumber": 17,
-		"era": "Future era",
+		"era": "Near Future era",
 		"techCost": 9500,
+		"buildingCost": 750,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "Generative Artificial Intelligence",
+				"row": 2,
+				"prerequisites": ["Globalization"],
+                "uniques": ["[+100]% weight to this choice for AI decisions"],
+				"quote": "'y-you used ai!' - Tiktok commenter"
+			}
+		]
+	},
+	
+	{
+		"columnNumber": 18,
+		"era": "Future era",
+		"techCost": 10000,
 		"buildingCost": 750,
 		"wonderCost": 1250,
 		"techs": [
 			{
 				"name": "Future Tech",
 				"row": 5,
-				"prerequisites": ["Globalization","Particle Physics","Nuclear Fusion","Nanotechnology","Stealth"],
+				"prerequisites": ["Generative Artificial Intelligence"],
 				"uniques": ["Can be continually researched"],
 				"quote": "'I think we agree, the past is over.' - George W. Bush",
                 "civilopediaText": [{"text": "Who knows what the future holds?"}]
