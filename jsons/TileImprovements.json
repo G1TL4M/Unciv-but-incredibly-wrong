@@ -41,7 +41,7 @@
 	},
   {
     "name": "Data center",
-    "terrainsCanBeBuiktOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Marsh","Oasis","Snow"],
+    "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Marsh","Oasis","Snow"],
     "gold": -2,
     "food": -2,
     "production": 2,
