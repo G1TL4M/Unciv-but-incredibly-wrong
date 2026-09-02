@@ -55,5 +55,6 @@
 		"uniques": ["Only available <in cities without a [Grok]>", "Only available <in cities without a [Deepseek]>"],
 		"requiredResource": "AI Power",
 		"requiredTech": "Nanotechnology"
+	}
 		
 ]
