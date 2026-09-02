@@ -21,5 +21,39 @@
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
-	}
+	},
+	{
+		"name": "ChatGPT",
+		"isWonder": true,
+		"percentStatBonus": {"production": 20},
+		"uniques": ["Only available <in cities without a [Grok]>", "Only available <in cities without a [Deepseek]>"],
+		"requiredResource": "AI Power",
+		"requiredTech": "Nanotechnology"
+	},
+	{
+		"name": "Grok",
+		"isWonder": true,
+		"percentStatBonus": {"culture": 50},
+		"uniques": ["Only available <in cities without a [ChatGPT]>", "Only available <in cities without a [Deepseek]>"],
+		"requiredResource": "AI Power",
+		"requiredTech": "Nanotechnology"
+	},
+	{
+		"name": "Deepseek",
+		"isWonder": true,
+		"percentStatBonus": {"science": 20},
+		"uniques": ["Only available <in cities without a [ChatGPT]>", "Only available <in cities without a [Grok]>"],
+		"requiredResource": "AI Power",
+		"requiredTech": "Nanotechnology"
+	},
+	{
+		"name": "IsraelGPT",
+		"replaces": "ChatGPT",
+		"uniqueTo": "Israel",
+		"isWonder": true,
+		"percentStatBonus": {"production": 75},
+		"uniques": ["Only available <in cities without a [Grok]>", "Only available <in cities without a [Deepseek]>"],
+		"requiredResource": "AI Power",
+		"requiredTech": "Nanotechnology"
+		
 ]
