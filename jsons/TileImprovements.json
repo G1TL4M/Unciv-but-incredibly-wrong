@@ -39,16 +39,16 @@
 		"uniques": ["[+1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "T"
 	},
-  {
-    "name": "Datacenter",
-    "terrainsCanBeBuiltOn": ["Plains","Grassland","Tundra","Flood plains"],
-    "food": -2,
-    "gold": -5,
-    "happiness": -1,
-    "turnsToBuild": 7,
-    "techRequired": "Nanotechnology",
-    "uniques": [""],
-    "shortcutkey": "D"
+	{
+		"name": "Datacenter",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Tundra","Flood plains"],
+		"food": -2,
+		"gold": -5,
+		"happiness": -1,
+		"turnsToBuild": 7,
+		"techRequired": "Nanotechnology",
+		"uniques": ["Provides [1] [AI Power]", "Pillaging this improvement yields approximately [+30 Gold]"],
+		"shortcutkey": "D"
   },
 
 	// Resource-specific
