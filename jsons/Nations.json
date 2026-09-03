@@ -25,8 +25,8 @@
 		"uniqueName": "Manifest Destiny",
 		"uniques": ["[+1] Sight <for [{Military} {Land}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
 		"cities": ["Agartha",
-			"Giza","Bukhara","Alice Springs","Urumqi","Little St. James"],
-        "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
+			"Giza","Bukhara","Cuiada","Alice Springs","Urumqi","Little St. James"],
+        "spyNames": ["Dwight York"]
 	},
 	{
 		"name": "Atlantis",
