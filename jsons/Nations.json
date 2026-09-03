@@ -1,10 +1,40 @@
 [
 	{
+		"name": "Agartha",
+		"leaderName": "King Of The World",
+		"adjective": ["Agarthan"],
+		"startBias": ["Snow","Tundra"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Genghis Khan",
+
+        "startIntroPart1": "President Trump, we salute you and the proud American civilization! Freed from the British dominion in the 18th century, then cleansed and reborn after a terrible civil war, the United States nation was ready to play its great role in the 20th century. At the height of its power, triumphant after two terrible world wars, United States of America, a land of immigration, opportunities, optimism and determination, has risen above all other weakening nations, unable to equal such power.",
+        "startIntroPart2": "President Trump, will you show to the world the legitimacy of the American way of life, and spread the flame of liberty to all mankind? Will your new empire shine through the ages of history?",
+
+        "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
+		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
+		"defeated": "There are no files",
+		"introduction": "The people of the United States of America welcome you.",
+		"neutralHello": "Good day.",
+		"hateHello": "Well?",
+		"tradeRequest": "This is, quite frankly, the best trade request in all of history.",
+
+        "outerColor": [119,28,51],
+        "innerColor": [255,255,255],
+
+        "favoredReligion": "Christianity",
+		"uniqueName": "Manifest Destiny",
+		"uniques": ["[+1] Sight <for [{Military} {Land}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
+		"cities": ["Agartha",
+			"Giza","Bukhara","Little St. James"],
+        "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
+	},
+	{
 		"name": "Atlantis",
 		"leaderName": "Atlas",
 		"adjective": ["Atlantean"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
-		"personality": "George Washington",
+		"personality": "Persia",
 
         "startIntroPart1": "Atlas, we salute you and the proud Atlantic civilization! You had control over a continent larger than Ancient Libya and Asia Minor combined, conquered Northern Africa up to Egypt and Europe up to Italy. The empire fell due to Athens helping resistors liberate your occupied lands and a mix of violent earthquakes and floods that sunk your continent into the ocean."
         "startIntroPart2": "Atlas, will you show to the world your power? Will you new empire shine through the ages of history?",
@@ -104,6 +134,7 @@
 		"name": "The North Pole",
 		"leaderName": "Santa Claus",
 		"adjective": ["North"],
+		"startBias": ["Snow"],
 		"preferredVictoryType": "Cultural",
 		"personality": "George Washington",
 
