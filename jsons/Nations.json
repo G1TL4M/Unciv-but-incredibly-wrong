@@ -18,8 +18,8 @@
 		"hateHello": "Well?",
 		"tradeRequest": "This is, quite frankly, the best trade request in all of history.",
 
-        "outerColor": [255,255,75],
-        "innerColor": [245,250,255],
+        "outerColor": [245,250,255],
+        "innerColor": [255,255,75],
 
         "favoredReligion": "Christianity",
 		"uniqueName": "Manifest Destiny",
@@ -35,7 +35,7 @@
 		"adjective": ["Atlantean"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
-		"personality": "Persia",
+		"personality": "Darius I",
 
         "startIntroPart1": "Atlas, we salute you and the proud Atlantic civilization! You had control over a continent larger than Ancient Libya and Asia Minor combined, conquered Northern Africa up to Egypt and Europe up to Italy. The empire fell due to Athens helping resistors liberate your occupied lands and a mix of violent earthquakes and floods that sunk your continent into the ocean."
         "startIntroPart2": "Atlas, will you show to the world your power? Will you new empire shine through the ages of history?",
