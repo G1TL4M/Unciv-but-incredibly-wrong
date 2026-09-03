@@ -1,5 +1,37 @@
 [
 	{
+		"name": "Atlantis",
+		"leaderName": "Atlanta",
+		"adjective": ["Atlantian"],
+		"preferredVictoryType": "Domination",
+		"personality": "George Washington",
+
+        "startIntroPart1": "_, we salute you and the proud Atlantic civilization! You conquered Ancient Libya and Asia Minor
+        "startIntroPart2": "President Trump, will you show to the world the legitimacy of the American way of life, and spread the flame of liberty to all mankind? Will your new empire shine through the ages of history?",
+
+        "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
+		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
+		"defeated": "There are no files",
+		"introduction": "The people of the United States of America welcome you.",
+		"neutralHello": "Good day.",
+		"hateHello": "Well?",
+		"tradeRequest": "This is, quite frankly, the best trade request in all of history.",
+
+        "outerColor": [119,28,51],
+        "innerColor": [255,255,255],
+
+        "favoredReligion": "Christianity",
+		"uniqueName": "Manifest Destiny",
+		"uniques": ["[+1] Sight <for [{Military} {Land}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
+		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
+			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
+			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
+			"Oakland","Tampa Bay","Orlando","Tacoma","Santa Fe","Olympia","Hunt Valley","Springfield","Palo Alto","Centralia",
+			"Spokane","Jacksonville","Savannah","Charleston","San Antonio","Birmingham","Anchorage","Sacramento","Reno",
+			"Salt Lake City","Boise","Milwaukee","Santa Cruz","Little Rock"],
+        "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
+	},
+	{
 		"name": "America",
 		"leaderName": "Donald Trump",
 		"adjective": ["American"],
