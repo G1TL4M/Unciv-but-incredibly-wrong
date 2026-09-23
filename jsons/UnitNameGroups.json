@@ -13,7 +13,7 @@
     },
     {
         "name": "Merchant",
-        "unitNames": ["Aretas III", "Andrew Carnegie", "Coco Chanel", "Marcus Licinius Crassus", "Enrico Dandolo", "Anthony van Diemen", "Jakob Fugger", "Johnny Sins", "Harkuf", "Edward Harriman", "Milton S. Hershey", "Ibn Battuta", "Steve Jobs", "Ligma Balls", "John Maynard Keynes", "Johnny Sins", "Sir James Lancaster", "Sir Alexander Mackenzie", "Giovanni de Medici", "John Stuart Mill", "Henri Nestlé", "Marco Polo", "John D. Rockefeller", "Sir Thomas Roe", "Shah Jahan", "Adam Smith", "Levi Strauss", "Raja Todar Mal", "Thomas Twining", "Cornelius Vanderbilt", "Richard Whittington", "Wang Anshi", "Zhang Qian", "Jeffrey Epstein", "Mr Beast"]
+        "unitNames": ["Aretas III", "Andrew Carnegie", "Coco Chanel", "Marcus Licinius Crassus", "Enrico Dandolo", "Anthony van Diemen", "Jakob Fugger", "Johnny Sins", "Harkuf", "Edward Harriman", "Milton S. Hershey", "Ibn Battuta", "Steve Jobs", "Ligma Balls", "John Maynard Keynes", "Johnny Sins", "Sir James Lancaster", "Sir Alexander Mackenzie", "Giovanni de Medici", "John Stuart Mill", "Henri Nestlé", "Marco Polo", "John D. Rockefeller", "Sir Thomas Roe", "Shah Jahan", "Adam Smith", "Levi Strauss", "Raja Todar Mal", "Thomas Twining", "Cornelius Vanderbilt", "Richard Whittington", "Wang Anshi", "Zhang Qian", "Ea-Naṣir", "Jeffrey Epstein", "Mr Beast"]
     },
     { 
         "name": "Engineer",
